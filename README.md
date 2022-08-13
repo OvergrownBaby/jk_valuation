@@ -18,3 +18,7 @@
 
 `from jk_valuation import extract_valuations`
 `extract_valuations('/Users/andy/Desktop/work/ubiquant/valuation/input', ['1002'])`
+
+**注意！windows机器输入文件路径是需要在路径前加r，如
+`r"C:\\..."`
+**
