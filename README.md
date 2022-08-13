@@ -4,7 +4,7 @@
 命令行输入`pip install -i https://test.pypi.org/simple/ jk-valuation`
 
 ## 函数
-`extract_valuation(folder_path, subjects)`
+`extract_valuations(folder_path, subjects)`
 
 ## 使用方法
 
